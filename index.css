@@ -1,9 +1,10 @@
 body {
     margin: 20px auto;
+    max-height: 400px;
     max-width: 600px;
     min-width: 600px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: #273549;
+    background: #1F2937;
     color: #CCC1FF;
 }
 .container{
