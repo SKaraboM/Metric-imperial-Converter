@@ -1,7 +1,16 @@
 body {
-    margin: 0px;
+    margin: 20px auto;
+    max-width: 600px;
+    min-width: 600px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #273549;
+    color: #CCC1FF;
+}
+.container{
     background: #1F2937;
-    color: #CCC1FF
+    padding: 20px;
+    border-radius: 10px;
+
 }
 .head-container{
     background: #6943FF;
